@@ -28,9 +28,13 @@ The AI Accent pass replaces AI-signature vocabulary with surgical, minimum-footp
 - spaCy (en_core_web_trf) on Modal GPU (A10G)
 - python-docx / lxml (document processing)
 
+## Delivery
+
+The tool runs as both a web app and a Word add-in (Office JS API, tracked changes written natively to the document).
+
 ## Roadmap
 
-Word add-in shipped (Office JS API, tracked changes written directly to the file). Google Docs add-on next.
+Google Docs add-on in development.
 
 ## Repo Note
 
