@@ -30,7 +30,7 @@ The AI Accent pass replaces AI-signature vocabulary with surgical, minimum-footp
 
 ## Roadmap
 
-Next: Word add-in and Google Docs add-on — works inside the document natively via the Office JS and Google Workspace APIs, with tracked changes written directly to the file.
+Word add-in shipped (Office JS API, tracked changes written directly to the file). Google Docs add-on next.
 
 ## Repo Note
 
