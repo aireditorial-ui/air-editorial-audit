@@ -2,7 +2,7 @@
 
 A multi-pass editorial audit system built to catch what grammar checkers miss — argument structure failures, logic errors, and AI-generated word choices that flatten an author's voice. It runs a pipeline of specialized passes, each targeting a distinct failure category, rather than a single monolithic grammar check.
 
-One specific differentiator is ESL and non-native voice preservation. The AI Accent pass detects and replaces AI-signature vocabulary with surgical, minimum-footprint edits that preserve how the author actually writes — including non-native constructions that are correct and intentional.
+The AI Accent pass replaces AI-signature vocabulary with surgical, minimum-footprint edits that preserve the author's voice.
 
 ## Pass Pipeline
 
