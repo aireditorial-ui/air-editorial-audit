@@ -26,7 +26,6 @@ The AI Accent pass replaces AI-signature vocabulary with surgical, minimum-footp
 - Python / Flask
 - Anthropic API (Claude Sonnet, Opus, Haiku)
 - spaCy (en_core_web_trf) on Modal GPU (A10G)
-- Microsoft Power Automate (workflow integration)
 - python-docx / lxml (document processing)
 
 ## Roadmap
